@@ -1,0 +1,1 @@
+Bro okay, this was a LOT, and why did to_structured and run_agent have their own messages array? And why is the parameters type for each function object when you clearly hinted their types as strings in their definition? And from where did tool_calls get ids, like does the model assigns those?! 
